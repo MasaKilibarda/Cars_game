@@ -20,7 +20,7 @@ Izvrsni fajl napravljen je za operativni sistem Windows.
 
 Autori:
  -Masa Kilibarda,371/2015,mashakilibarda@gmail.com
- -Andjela Milanovic,222/2015,andjelammatf@gmail.com
+ -Andjela Milanovic,222/2015,andjelamilanovic305@gmail.com
  -Tamara Despotovic,130/2013,tamaradespotovic@hotmail.com
 
 
